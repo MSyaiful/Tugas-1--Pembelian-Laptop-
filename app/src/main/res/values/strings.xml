@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TestRumus</string>
+    <string name="panjang">panjang</string>
+    <string name="lebar">lebar</string>
+    <string name="tinggi">tinggi</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">hasil</string>
+    <string name="info">info</string>
+    <string name="gabung">gabung</string>
+    <string name="jurusan">jurusan</string>
+    <string name="kelas">kelas</string>
+    <string name="nama">nama</string>
+    <string name="nama_pembeli">Nama Pembeli</string>
+    <string name="merk_laptop">Merk Laptop</string>
+    <string name="jumlah_laptop">Jumlah Laptop</string>
+    <string name="beli">Beli</string>
+</resources>
